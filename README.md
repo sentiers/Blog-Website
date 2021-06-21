@@ -1,8 +1,31 @@
 # Personal-Blog_Angular9
-
-https://limitless-harbor-37862.herokuapp.com/
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+
+
+## Demo Website
+https://limitless-harbor-37862.herokuapp.com/
+<br />Administrator mode: https://limitless-harbor-37862.herokuapp.com/admin
+
+## Description
+Typical personal blog website (I made this for school project)
+- Angular Typescript Javascript HTML CSS Node.js MongoDB Heroku
+
+## Functionality
+1. Administrator mode
+<br />Blog administrator can create/view/update/delete posts
+
+2. View post by Categories
+<br />Users can view posts by categories and can see how many posts exists on each categories
+
+3. View post by Hashtags
+<br />Users can view posts that includes specific hashtags
+
+4. Post comments
+<br />Users can post comments in the comment section on the bottom of the post
+
+5. View recent posts
+<br />Users can view 3 recent posts on the side bar and footer
+
 
 ## Development server
 
