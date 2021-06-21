@@ -7,7 +7,7 @@ https://limitless-harbor-37862.herokuapp.com/
 <br />Administrator mode: https://limitless-harbor-37862.herokuapp.com/admin
 
 ## Description
-Typical personal blog website (I made this for school project)
+A typical personal blog website (I made this as a school project)
 - Angular Typescript Javascript HTML CSS Node.js MongoDB Heroku
 
 ## Functionality
@@ -15,16 +15,16 @@ Typical personal blog website (I made this for school project)
 <br />Blog administrator can create/view/update/delete posts
 
 2. View post by Categories
-<br />Users can view posts by categories and can see how many posts exists on each categories
+<br />Users can view posts by categories and can see how many posts exists for each categories
 
 3. View post by Hashtags
-<br />Users can view posts that includes specific hashtags
+<br />Users can view posts that include specific hashtags
 
 4. Post comments
-<br />Users can post comments in the comment section on the bottom of the post
+<br />Users can post comments in the comment section at the bottom of the post
 
 5. View recent posts
-<br />Users can view 3 recent posts on the side bar and footer
+<br />Users can view 3 most recent posts on the side bar and the footer
 
 
 ## Development server
